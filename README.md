@@ -15,7 +15,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Live site](https://github.com/toxa-dev/frontendmentor.io-08-recipe-page)
+- Live Site URL: [Live site](https://toxa-dev.github.io/frontendmentor.io-08-recipe-page/)
 
 ## My process
 
