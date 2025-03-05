@@ -184,6 +184,10 @@ ol {
         padding-bottom: 0;
     }
 
+    main {
+        padding: 40px 0 0 40px;
+    }
+
     .hero-image-container img {
         border-radius: 10px;
     }
