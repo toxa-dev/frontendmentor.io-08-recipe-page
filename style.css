@@ -171,6 +171,10 @@ ol {
     background-color: var(--color-stone-100);
 }
 
+.pb-rs {
+    padding-bottom: 24px;
+}
+
 /* Small screens (default) */
 
 /* Medium screens (tablets) */
@@ -184,7 +188,7 @@ ol {
         padding-bottom: 0;
     }
 
-    main {
+    .pb-rs {
         padding: 40px 0 40px 0;
     }
 
